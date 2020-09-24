@@ -7,7 +7,7 @@ FullStack Developer, Computer Technician, I like challenges and I'm interested i
 
 - 🔭 I’m currently working on personal projects;
    
-- 🌱 I’m currently learning Typescript;
+- 🌱 I’m currently learning Docker;
 
 - 💬 Ask me about anything [here](https://github.com/agftech/agftech/issues)
 
