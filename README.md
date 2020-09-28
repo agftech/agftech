@@ -21,20 +21,19 @@
   </p>
 
   <p>
-    <a href="https://github.com/agftech/"><img alt="Questions and Issues" align="center" src="https://img.shields.io/badge/-Questions and Issues-gray.svg?color=6A788D&style=for-the-badge" /></a>&nbsp;
+    <a href="https://github.com/agftech/agftech/issues"><img alt="Questions and Issues" align="center" src="https://img.shields.io/badge/-Questions and Issues-gray.svg?color=6A788D&style=for-the-badge" /></a>&nbsp;
     <small>
       <a href="https://github.com/agftech/agftech/issues">[ Here ]</a>
     </small>
   </p>
-  <br />
+
+<div>
   
   <small>
     <strong>❯❯ LANGUAGENS AND TOOLS ↓</strong><br>
   </small>
 
 [<img src="https://img.shields.io/badge/Docker-000000?logo=docker"/>](https://hub.docker.com/) [<img src="https://img.shields.io/badge/Git-000000?logo=git"/>](https://git-scm.com/doc) [<img src="https://img.shields.io/badge/Github-000000?logo=github"/>](https://github.com/) [<img src="https://img.shields.io/badge/Heroku-430098?logo=heroku"/>](https://www.heroku.com/) [<img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="https://img.shields.io/badge/NodeJS-339933?logo=node-dot-js"/>](https://nodejs.org/en/) [<img src="https://img.shields.io/badge/React-000000?logo=react"/>](https://reactjs.org/) [<img src="https://img.shields.io/badge/React Native-000000?logo=react"/>](https://reactnative.dev/) [<img src="https://img.shields.io/badge/Typescript-007ACC?logo=typescript"/>](https://www.typescriptlang.org/) [<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel"/>](https://vercel.com/)
-
-<div>
    
 <br />
 
@@ -54,18 +53,3 @@
   <img src="https://komarev.com/ghpvc/?username=agftech&label=Views"/>
 
 </details>
-
-<!--
-**agftech/agftech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
