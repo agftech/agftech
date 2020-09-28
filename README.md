@@ -16,7 +16,7 @@
   </p>
 
   <p>
-    ❯❯ <img alt="Learning" align="center" src="https://img.shields.io/badge/-learning-green.svg?color=4CAF50&style=for-the-badge" />
+    <img alt="Learning" align="center" src="https://img.shields.io/badge/-learning-green.svg?color=4CAF50&style=for-the-badge" />
     &nbsp;
     <small>
       <strong>[ JAVASCRIPT, TYPESCRIPT, DOCKER ]</strong>
