@@ -1,6 +1,6 @@
 <div align="left">
   <p>
-    ❯❯ <img alt="AGFTECH's" align="center" src="https://img.shields.io/badge/-AGFTECH's-blue.svg?color=1da1f2&style=for-the-badge" />
+    <img alt="AGFTECH's" align="center" src="https://img.shields.io/badge/-AGFTECH's-blue.svg?color=1da1f2&style=for-the-badge" />
     &nbsp;
     <small>
       [ FullStack Developer, Computer Technician, I like challenges and I'm interested in technologies and frameworks that can help people and companies to improve their growth and development processes ]
@@ -8,7 +8,7 @@
   </p>
 
   <p>
-    ❯❯ <img alt="Currently Working" align="center" src="https://img.shields.io/badge/-currently working-4D2AFF.svg?color=4D2AFF&style=for-the-badge" />
+    <img alt="Currently Working" align="center" src="https://img.shields.io/badge/-currently working-4D2AFF.svg?color=4D2AFF&style=for-the-badge" />
     &nbsp;
     <small>
       <strong>[ PERSONAL PROJECTS ]</strong>
@@ -24,12 +24,14 @@
   </p>
 
   <p>
-    ❯❯ <img alt="Questions and Issues" align="center" src="https://img.shields.io/badge/-Questions and Issues-gray.svg?color=6A788D&style=for-the-badge" />
+    <img alt="Questions and Issues" align="center" src="https://img.shields.io/badge/-Questions and Issues-gray.svg?color=6A788D&style=for-the-badge" />
     &nbsp;
     <small>
       <a href="https://github.com/agftech/agftech/issues">[ Here ]</a>
     </small>
   </p>
+  <br />
+  
   <small>
     <strong>❯❯ LANGUAGENS AND TOOLS ↓</strong>&nbsp;
   </small>
@@ -44,12 +46,12 @@
    <summary>
         <img alt="AGFTECH's" align="center" src="https://img.shields.io/badge/-AGFTECH's-blue.svg?color=1da1f2&style=for-the-badge" />
         <small>
-          <strong>[ GITHUB STATS ]</strong>
+          <strong>[ GITHUB STATS ]↓</strong>&nbsp;
         </small>
    </summary>
   <br>
 
-  <p align="center">
+  <p align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=agftech&show_icons=true&theme=prussian" alt="AGF TECH's Github Stats" />
   </p>
 
