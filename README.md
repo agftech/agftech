@@ -1,26 +1,52 @@
+<div align="left">
+  <p>
+    ❯❯ <img alt="AGFTECH's" align="center" src="https://img.shields.io/badge/-AGFTECH's-blue.svg?color=1da1f2&style=for-the-badge" />
+    &nbsp;
+    <small>
+      [ FullStack Developer, Computer Technician, I like challenges and I'm interested in technologies and frameworks that can help people and companies to improve their growth and development processes ]
+    </small>
+  </p>
 
-### Hi there, I'm <kbd>AGFTECH's:</kbd>
+  <p>
+    ❯❯ <img alt="Currently Working" align="center" src="https://img.shields.io/badge/-currently working-4D2AFF.svg?color=4D2AFF&style=for-the-badge" />
+    &nbsp;
+    <small>
+      <strong>[ PERSONAL PROJECTS ]</strong>
+    </small>
+  </p>
 
-<br />
+  <p>
+    ❯❯ <img alt="Learning" align="center" src="https://img.shields.io/badge/-learning-green.svg?color=4CAF50&style=for-the-badge" />
+    &nbsp;
+    <small>
+      <strong>[ JAVASCRIPT, TYPESCRIPT, DOCKER ]</strong>
+    </small>
+  </p>
 
-FullStack Developer, Computer Technician, I like challenges and I'm interested in technologies and frameworks that can help people and companies to improve their growth and development processes
+  <p>
+    ❯❯ <img alt="Questions and Issues" align="center" src="https://img.shields.io/badge/-Questions and Issues-gray.svg?color=6A788D&style=for-the-badge" />
+    &nbsp;
+    <small>
+      <a href="https://github.com/agftech/agftech/issues">[ Here ]</a>
+    </small>
+  </p>
+  <small>
+    <strong>❯❯ LANGUAGENS AND TOOLS ↓</strong>&nbsp;
+  </small>
 
-- 🔭 I’m currently working on personal projects;
+[<img src="https://img.shields.io/badge/Docker-000000?logo=docker"/>](https://hub.docker.com/) [<img src="https://img.shields.io/badge/Git-000000?logo=git"/>](https://git-scm.com/doc) [<img src="https://img.shields.io/badge/Github-000000?logo=github"/>](https://github.com/) [<img src="https://img.shields.io/badge/Heroku-430098?logo=heroku"/>](https://www.heroku.com/) [<img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="https://img.shields.io/badge/NodeJS-339933?logo=node-dot-js"/>](https://nodejs.org/en/) [<img src="https://img.shields.io/badge/React-000000?logo=react"/>](https://reactjs.org/) [<img src="https://img.shields.io/badge/React Native-000000?logo=react"/>](https://reactnative.dev/) [<img src="https://img.shields.io/badge/Typescript-007ACC?logo=typescript"/>](https://www.typescriptlang.org/) [<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel"/>](https://vercel.com/)
+
+<div>
    
-- 🌱 I’m currently learning Docker;
-
-- 💬 Ask me about anything [here](https://github.com/agftech/agftech/issues)
-
-<br />
-
-**Languages and Tools:**
-
-[<img src="https://img.shields.io/badge/Git-000000?logo=git"/>](https://git-scm.com/doc) [<img src="https://img.shields.io/badge/Heroku-430098?logo=heroku"/>](https://www.heroku.com/) [<img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="https://img.shields.io/badge/NodeJS-339933?logo=node-dot-js"/>](https://nodejs.org/en/) [<img src="https://img.shields.io/badge/React-000000?logo=react"/>](https://reactjs.org/) [<img src="https://img.shields.io/badge/React Native-000000?logo=react"/>](https://reactnative.dev/) [<img src="https://img.shields.io/badge/Typescript-007ACC?logo=typescript"/>](https://www.typescriptlang.org/) [<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel"/>](https://vercel.com/)
-
 <br />
 
 <details>
-  <summary><kbd>AGFTECH's:</kbd> Github Stats</summary>
+   <summary>
+        <img alt="AGFTECH's" align="center" src="https://img.shields.io/badge/-AGFTECH's-blue.svg?color=1da1f2&style=for-the-badge" />
+        <small>
+          <strong>[ GITHUB STATS ]</strong>
+        </small>
+   </summary>
   <br>
 
   <p align="center">
