@@ -28,7 +28,7 @@
   </p>
 
 <div>
-  
+  <br>
   <small>
     <strong>❯❯ LANGUAGENS AND TOOLS ↓</strong><br>
   </small>
