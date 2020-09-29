@@ -27,10 +27,10 @@
     </small>
   </p>
 
-<div>
+</div>
   <br>
   <small>
-    <strong>❯❯ LANGUAGENS AND TOOLS ↓</strong><br>
+    <strong>❯❯ LANGUAGES AND TOOLS ↓</strong><br>
   </small>
 
 [<img src="https://img.shields.io/badge/Docker-000000?logo=docker"/>](https://hub.docker.com/) [<img src="https://img.shields.io/badge/Git-000000?logo=git"/>](https://git-scm.com/doc) [<img src="https://img.shields.io/badge/Github-000000?logo=github"/>](https://github.com/) [<img src="https://img.shields.io/badge/Heroku-430098?logo=heroku"/>](https://www.heroku.com/) [<img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="https://img.shields.io/badge/NodeJS-339933?logo=node-dot-js"/>](https://nodejs.org/en/) [<img src="https://img.shields.io/badge/React-000000?logo=react"/>](https://reactjs.org/) [<img src="https://img.shields.io/badge/React Native-000000?logo=react"/>](https://reactnative.dev/) [<img src="https://img.shields.io/badge/Typescript-007ACC?logo=typescript"/>](https://www.typescriptlang.org/) [<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel"/>](https://vercel.com/)
