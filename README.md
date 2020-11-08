@@ -14,7 +14,7 @@
   <p>
     <a href="https://github.com/agftech/"><img alt="Learning" align="center" src="https://img.shields.io/badge/-learning-green.svg?color=4CAF50&style=for-the-badge" /></a>&nbsp;
     <small>
-      <strong>[ DOCKER, JAVASCRIPT, TYPESCRIPT, NEXT ]</strong>
+      <strong>[ DOCKER, GO, JAVASCRIPT, TYPESCRIPT, NEXT ]</strong>
     </small>
   </p>
   <p>
