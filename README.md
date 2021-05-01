@@ -40,7 +40,7 @@
    <summary>
         <a href="https://github.com/agftech/"><img alt="AGFTECH's" align="center" src="https://img.shields.io/badge/-AGFTECH's-blue.svg?color=1da1f2&style=for-the-badge" /></a>&nbsp;
         <small>
-          <strong>[ GITHUB STATS ]↓</strong>&nbsp;&nbsp;&nbsp; <a href="https://komarev.com/ghpvc/?username=agftech&label=VIEWS"> <img alt="Views" src="https://komarev.com/ghpvc/?username=agftech&label=VIEWS"/> </a>
+          <strong>[ GITHUB STATS ]↓</strong>&nbsp;&nbsp;&nbsp; <a href="https://komarev.com/ghpvc/?username=agftech&label=VIEWS"> <img align="center" alt="Views" src="https://komarev.com/ghpvc/?username=agftech&label=VIEWS"/> </a>
         </small>
    </summary>
   <br>
